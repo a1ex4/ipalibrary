@@ -47,7 +47,7 @@ jobs:
                 'BHX',
                 'CarPlex',
                 'iTorrent',
-                'Infuse Pro',
+                'InfusePro',
             ]
     
             source_data = {
